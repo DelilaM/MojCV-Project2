@@ -1,0 +1,80 @@
+header {
+	background-color: pink;
+	color:gray;
+	text-align:center;
+	border:3px solid gray; 
+	font-size:300%;
+	font-family:"Times New Roman", sans-serif;
+	font-weight:bold;
+}
+
+pre {
+	text-align:center;
+	color:black;
+	text-decoration:underline;
+	text-decoration-color:gray;
+	text-decoration-style:solid;	
+}
+img {
+	border:3px solid gray;
+}
+h2 {
+	color:gray;
+	font-weight:bold;
+	text-decoration:overline;
+	font-size:200%;
+	font-family:"Times New Roman";
+	text-align:center;
+}
+div{
+	background-color:pink;
+
+}
+p {
+	font-weight:bold;
+	text-align:center;
+	font-family:"Times New Roman";
+}
+h3 {
+	border:2px solid gray;
+	color:gray;
+	font-weight:bold;
+	font-size:200%;
+	font-family:"Times New Roman";
+}
+li {
+	font-weight:bold;
+	font-style:italic;
+}
+h4 {
+	color:gray;
+	font-weight:bold;
+	font-family:"Times New Roman";
+	font-size:200%;
+	text-align:left-side;
+	text-decoration:underline;
+	text-decoration-color:solid gray;
+}
+dt{
+	font-weight:bold;
+}
+dd {
+	font-style:italic;
+}
+footer {
+	background-color:pink;
+	color:gray;
+	padding:10px;
+	padding-left:10px;
+	padding-right:10px;
+	
+}
+table {
+	width:100%;
+}
+th {
+	font-weight:bold;
+	font-style:italic;
+	text-align:center;
+	text-decoration:underline;
+}
